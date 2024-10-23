@@ -10,7 +10,7 @@
 
 # Write JavaScript Actions Addon!
 
-_Write your own GitHub JavaScript Action and automate customized tasks unique to your workflow. 
+Write your own GitHub JavaScript Action and automate customized tasks unique to your workflow. 
 
 </header>
 
